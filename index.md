@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Featured Links
+title: Welcome to My Site
 ---
 
 # Welcome to My Site
@@ -21,5 +21,3 @@ Here are some of my recent blog posts:
     <li><a href="{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
 </ul>
-
-Feel free to browse through the content.
