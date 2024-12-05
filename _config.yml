@@ -1,5 +1,5 @@
 theme: minima
 title: My Awesome Site
 description: A site powered by Jekyll
-baseurl: ""
-url: "https://ja-ron.live/amazon-blog"
+baseurl: "/amazon-blog"
+url: "https://ja-ron.live"
