@@ -1,8 +1,8 @@
+---
+layout: default
+title: Admin Panel
+---
 
----
-title: "Admin!"
-date: 2024-11-06
----
 # Admin Panel
 
 This page allows admin users to add new links, including videos and Amazon product URLs, and delete existing items.
