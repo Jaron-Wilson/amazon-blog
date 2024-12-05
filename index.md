@@ -1,5 +1,6 @@
 ---
-title: Welcome to my blog site!
+layout: default
+title: Featured Links
 ---
 
 # Featured Links
