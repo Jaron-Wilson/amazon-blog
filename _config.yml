@@ -3,3 +3,4 @@ title: My Awesome Site
 description: A site powered by Jekyll
 baseurl: "/amazon-blog"
 url: "https://ja-ron.live"
+include: [_pages, _posts]
