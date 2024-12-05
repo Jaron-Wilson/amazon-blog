@@ -1,7 +1,8 @@
 ---
-title: "Main App Site!"
-date: 2024-11-05
+layout: default
+title: App Component
 ---
+
 # App Component
 
 This file defines the main routing structure for the application.
