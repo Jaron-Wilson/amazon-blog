@@ -9,8 +9,8 @@ This is the homepage of my site where you can find links to the posts and other 
 
 ## Pages
 
-- [Home Page](home.html)
-- [Admin Panel](admin.html)
+- [Home Page](/home.html)
+- [Admin Panel](/admin.html)
 
 ## Posts
 
