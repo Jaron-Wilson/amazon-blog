@@ -3,24 +3,23 @@ layout: default
 title: Featured Links
 ---
 
-# Featured Links
+# Welcome to My Site
 
-This page displays a list of featured links with video content and an option to view them on Amazon.
+This is the homepage of my site where you can find links to the posts and other pages.
 
-## Components:
+## Pages
 
-- **Container**: A wrapper for the content.
-- **Typography**: Displays the main heading and content text.
-- **Grid**: Displays items in a responsive grid layout.
-- **Card**: Represents each item with a video and Amazon URL.
+- [Home Page](home.html)
+- [Admin Panel](admin.html)
 
-## Video Embed Logic:
+## Posts
 
-- The `embedVideo` function detects if a URL is from YouTube and extracts the video ID to create an embedded iframe.
+Here are some of my recent blog posts:
 
-## Features:
+<ul>
+  {% for post in site.posts %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+  {% endfor %}
+</ul>
 
-- Displays a list of items with:
-  - Title
-  - Embedded YouTube video (if applicable)
-  - Amazon URL link to view the product.
+Feel free to browse through the content.
